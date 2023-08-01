@@ -1,3 +1,9 @@
 body {
   margin: 0;
 }
+
+h1 {
+  font-weight: normal;
+  text-transform: uppercase;
+  font-style: 80px;
+}
