@@ -7,5 +7,9 @@
 ## prijungti github repo prie musu localios
 
 4. `git remote add origin https://github.com/NaglisB123/1_git_firstTeam_tailwind.git`
-   `git branch -M main`
-   `git push -u origin main`
+5.   `git branch -M main`
+6.   `git push -u origin main`
+
+## branch 
+
+7. `git checkout -b development` sukurti ir pereiti i nauja saka
