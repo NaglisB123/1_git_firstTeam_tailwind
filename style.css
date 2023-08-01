@@ -1,7 +1,32 @@
-
+body {
+  /* margin: 0; */
+}
 
 h1 {
   font-weight: normal;
   text-transform: uppercase;
-  font-style: 80px;
+  font-size: 80px;
+}
+
+.card {
+  max-width: 300px;
+  border: 1px solid #000;
+  padding: 10px 25px;
+  text-align: center;
+}
+
+.card .title {
+  text-transform: uppercase;
+}
+.card .text {
+  line-height: 1.5;
+}
+
+.btn {
+  border: none;
+  background-color: #333;
+  padding: 10px 40px;
+  color: #fff;
+  border-radius: 80px;
+  margin-bottom: 20px;
 }
